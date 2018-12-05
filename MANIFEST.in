@@ -1,0 +1,4 @@
+include centre/schema.sql
+graft centre/static
+graft centre/templates
+global-exclude *.pyc
